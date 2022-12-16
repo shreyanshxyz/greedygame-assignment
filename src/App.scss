@@ -1,0 +1,24 @@
+.App {
+  display: flex;
+  flex-direction: row;
+  /* height: 100%; */
+}
+
+.navbar {
+  border-left: 40px solid rgb(0, 12, 91);
+  padding-right: 5%;
+  min-height: 763px;
+  max-height: fit-content;
+}
+
+.table_main {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.header {
+  margin: 0;
+  margin-top: 30px;
+  padding-bottom: 20px;
+}
